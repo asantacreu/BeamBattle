@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Beam_Battle", "Beam_Battle.vcxproj", "{47BAA2C5-1891-4E3A-8890-3F0C3BBC3BF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47BAA2C5-1891-4E3A-8890-3F0C3BBC3BF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47BAA2C5-1891-4E3A-8890-3F0C3BBC3BF2}.Debug|Win32.Build.0 = Debug|Win32
+		{47BAA2C5-1891-4E3A-8890-3F0C3BBC3BF2}.Debug|x64.ActiveCfg = Debug|x64
+		{47BAA2C5-1891-4E3A-8890-3F0C3BBC3BF2}.Debug|x64.Build.0 = Debug|x64
+		{47BAA2C5-1891-4E3A-8890-3F0C3BBC3BF2}.Release|Win32.ActiveCfg = Release|Win32
+		{47BAA2C5-1891-4E3A-8890-3F0C3BBC3BF2}.Release|Win32.Build.0 = Release|Win32
+		{47BAA2C5-1891-4E3A-8890-3F0C3BBC3BF2}.Release|x64.ActiveCfg = Release|x64
+		{47BAA2C5-1891-4E3A-8890-3F0C3BBC3BF2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
